@@ -1,0 +1,45 @@
+ASTERIO
+=======
+
+
+The Minotaur has a son, Asterio. 
+
+GOAL
+- bring Asterio up appropriately so he turns out okay and loving his father. 
+- dying in the process is considered a Bad Thing, and killing the son is a no-no.
+
+Asterio's needs:
+- food (from victims)
+- entertainment (from warrior victims' toys)
+- attention?
+- keep health up (goes down by attacks from warriors)
+
+Minotaur's needs:
+- keep calm (avoid raging too much)
+- food (option: save food for Asterio or eat)
+- keep health up (goes down by attacks from warriors)
+
+Rage goes up when attacking anyone. It goes down by being out of sight of enemies.
+
+When rage maxes out, the Minotaur goes into "Frenzy". During this state everyone looks like an enemy, including Asterio. 
+
+Asterio's love:
+- goes down every time the Minotaur hits him by accident (during Frenzy)
+- goes down while his entertainment or food stats are zero
+- goes up every time he is fed
+
+Victims:
+- Warriors (rage++, food++, entertainment+)
+- Maidens (rage+, food+)
+
+ROADMAP
+-------
+
+- stats for main entities
+- text ui with options (no maze)
+- game cycle
+- maze
+
+
+
+
